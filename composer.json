@@ -1,5 +1,16 @@
 {
+    "name": "allenmccabe/phpatomic",
+    "description": "A PHP library for undoable actions.",
+    "type": "library",
     "require": {
-        "monolog/monolog": "^1.22"
-    }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Allen McCabe",
+            "email": "amccabe@csatf.org"
+        }
+    ]
 }
